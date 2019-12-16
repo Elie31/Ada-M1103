@@ -1,6 +1,6 @@
 project Tris is
 
-   for Main use ("compter_tri_shell.adb");
+   for Main use ("compter_tri_insertion.adb");
 
    package Compiler is
       for Default_Switches ("ada") use ("-gnata");

@@ -2,20 +2,24 @@ with Tableau; use Tableau;
 
 package tris is
 
-   -- échange les valeurs de 2 réels X et Y
+   -- Ã©change les valeurs de 2 rÃ©els X et Y
    procedure Echanger (X, Y : in out Float) with
       Post => X = Y'Old and Y = X'Old;
 
-   -- tri le tableau T par la méthode des bulles
+   -- tri le tableau T par la mÃ©thode des bulles
    procedure Trier_Bulles (T : in out Tablo) with
       Post => (for all i in T'First .. T'Last - 1 => T (i) <= T (i + 1));
 
-   -- tri le tableau T par la méthode du pivot (quick sort)
+   -- tri le tableau T par la mÃ©thode du pivot (quick sort)
    procedure Trier_Pivot (T : in out Tablo) with
       Post => (for all i in T'First .. T'Last - 1 => T (i) <= T (i + 1));
 
-   -- tri le tableau T par la méthode shell
+   -- tri le tableau T par la mÃ©thode shell
    procedure Trier_Shell (T : in out Tablo) with
+     Post => (for all i in T'First .. T'Last - 1 => T (i) <= T (i + 1));
+
+    -- tri le tableau T par la mÃ©thode insertion
+   procedure Trier_insertion (T : in out Tablo) with
       Post => (for all i in T'First .. T'Last - 1 => T (i) <= T (i + 1));
 
 end tris;

@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 24" line=" 34" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tri_bulles.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 77" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 23" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compteurs.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tri_pivot.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 87" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 95" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 34" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tri_insertion.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 95" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 95" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 95" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 95" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 95" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 106" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 4" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 26" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 4" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 24" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 4" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 106" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 24" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 4" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 24" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 4" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 95" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 95" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 92" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 51" line=" 92" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 22" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 51" line=" 92" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 22" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 51" line=" 92" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 98" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 99" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 98" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 99" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 103" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 106" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 98" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 40" line=" 99" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 103" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 98" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 94" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 98" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 40" line=" 99" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 98" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 40" line=" 99" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 98" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 94" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 98" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 99" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 98" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 93" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 4" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 93" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 4" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\compter_tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 93" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris.gpr</vfs_project>
+      <vfs_file>H:\ada1103\Ada-M1103\TP2\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 94" >
+      <vfs_project>H:\ada1103\Ada-M1103\TP2\tris

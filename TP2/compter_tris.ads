@@ -21,5 +21,9 @@ package compter_tris is
      (T                   : in out Tablo;
       Cpt_Comp, Cpt_Affec : in out Compteur);
 
+    procedure trier_insertion_cpt
+     (T                   : in out Tablo;
+      Cpt_Comp, Cpt_Affec : in out Compteur);
+
 
 end compter_tris;

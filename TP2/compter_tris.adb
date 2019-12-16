@@ -94,4 +94,25 @@ package body compter_tris is
       end loop;
    end Trier_Shell_cpt;
 
+   procedure Trier_insertion_cpt (T                   : in out Tablo;
+                                  Cpt_Comp, Cpt_Affec : in out Compteur) is
+      K : Natural;
+      X   : Float;
+   begin
+      for i in T'First + 1.. T'Last loop
+          Incr(Cpt_Comp);
+         K := i - 1;
+         X := T(i);
+         Incr (Cpt_Affec);
+         while K >= T'First and then  T(K) > X loop
+            Incr(Cpt_Comp);
+            T(K + 1) := T(K);
+            Incr (Cpt_Affec);
+            K := K - 1;
+         end loop;
+         T(K + 1) := X;
+         Incr (Cpt_Affec);
+      end loop;
+   end Trier_insertion_cpt;
+
 end compter_tris;

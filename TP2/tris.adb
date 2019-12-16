@@ -85,4 +85,23 @@ package body tris is
       end loop;
    end Trier_Shell;
 
+   -------------------
+   --Trier Insertion--
+   -------------------
+
+       procedure Trier_insertion (T : in out Tablo) is
+      K : Natural;
+      X   : Float;
+   begin
+      for i in T'First + 1.. T'Last loop
+         K := i - 1;
+         X := T(i);
+         while K >= T'First and then  T(K) > X loop
+            T(K + 1) := T(K);
+            K := K - 1;
+         end loop;
+         T(K + 1) := X;
+      end loop;
+   end Trier_insertion;
+
 end tris;
