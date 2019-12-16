@@ -1,0 +1,23 @@
+[GENERATED OBJECT FILE]
+b__compter_tri_shell.o
+[PROJECT FILES]
+H:\ada1103\Ada-M1103\TP2\tris.gpr
+20191211141000
+[BOUND OBJECT FILES]
+H:\ada1103\Ada-M1103\TP2\compteurs.o
+H:\ada1103\Ada-M1103\TP2\tableau.o
+H:\ada1103\Ada-M1103\TP2\compter_tri_shell.o
+H:\ada1103\Ada-M1103\TP2\tris.o
+H:\ada1103\Ada-M1103\TP2\compter_tris.o
+[GENERATED SOURCE FILES]
+b__compter_tri_shell.ads
+b__compter_tri_shell.adb
+b__compter_tri_shell.ali
+[RESULTING OPTIONS]
+-LH:\ada1103\Ada-M1103\TP2\
+-LH:\ada1103\Ada-M1103\TP2\
+-LC:/program files (x86)/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/
+-static
+-static-libgcc
+C:/program files (x86)/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/libgnat.a
+-Wl,--stack=0x2000000

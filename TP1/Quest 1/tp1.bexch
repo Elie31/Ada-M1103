@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__tp1.o
+[PROJECT FILES]
+H:\ada1103\Ada-M1103\TP1\Quest 1\tp1.gpr
+20191202094600
+[BOUND OBJECT FILES]
+H:\ada1103\Ada-M1103\TP1\Quest 1\usager.o
+H:\ada1103\Ada-M1103\TP1\Quest 1\TP1.o
+[GENERATED SOURCE FILES]
+b__tp1.ads
+b__tp1.adb
+b__tp1.ali
+[RESULTING OPTIONS]
+-LH:\ada1103\Ada-M1103\TP1\Quest 1\
+-LH:\ada1103\Ada-M1103\TP1\Quest 1\
+-LC:/program files (x86)/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/
+-static
+-static-libgcc
+C:/program files (x86)/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/libgnat.a
+-Wl,--stack=0x2000000

@@ -1,0 +1,6 @@
+project VerifierCode is
+
+   for Main use ("verifier_un_code.adb");
+
+end VerifierCode;
+
